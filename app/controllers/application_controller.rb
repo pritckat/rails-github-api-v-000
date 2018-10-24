@@ -16,4 +16,3 @@ class ApplicationController < ActionController::Base
     !!session[:token]
   end
 end
-
